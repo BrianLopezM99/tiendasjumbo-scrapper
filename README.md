@@ -61,8 +61,7 @@ La API proporciona un único endpoint que recibe una URL como entrada y retorna 
     ```
 
 ## Ejemplo
-![image](https://github.com/user-attachments/assets/d07ea5f5-9d51-4b5a-be01-20ab09e38ec0)
-
+![image](https://github.com/user-attachments/assets/37412625-a299-4e59-adf2-639318a110d9)
 
 ## Notas
 - Este proyecto utiliza `Flask` y `Playwright` para realizar el scraping y levantar el servicio.
