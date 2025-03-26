@@ -60,6 +60,10 @@ La API proporciona un único endpoint que recibe una URL como entrada y retorna 
     curl http://127.0.0.1:5000/
     ```
 
+## Ejemplo
+![image](https://github.com/user-attachments/assets/d07ea5f5-9d51-4b5a-be01-20ab09e38ec0)
+
+
 ## Notas
 - Este proyecto utiliza `Flask` y `Playwright` para realizar el scraping y levantar el servicio.
 - Asegúrate de que la URL enviada como parámetro sea válida y provenga del dominio `https://www.tiendasjumbo.co/`.
