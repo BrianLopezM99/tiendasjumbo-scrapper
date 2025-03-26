@@ -65,7 +65,7 @@ La API proporciona un único endpoint que recibe una URL como entrada y retorna 
 
 ## Notas
 - Este proyecto utiliza `Flask` y `Playwright` para realizar el scraping y levantar el servicio.
-- Asegúrate de que la URL enviada como parámetro sea válida y provenga del dominio `https://www.tiendasjumbo.co/`.
+- Asegúrate de que la URL enviada como parámetro sea válida y provenga del dominio `https://www.jumbocolombia.com/`.
 
 ## Licencia
 Este proyecto está licenciado bajo la [MIT License](LICENSE).
